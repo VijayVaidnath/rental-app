@@ -1,0 +1,3 @@
+rental-app/.editorconfig
+rental-app/target/classes/com/rental/app/App.class
+rental-app/target/test-classes/com/rental/app/AppTest.class
